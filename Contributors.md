@@ -8,6 +8,7 @@
 - [basant_khadka](https://github.com/basantkhadka103-ship-it/first-contributions)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
+- [Utsman Kiat Koding](https://github.com/utsman-kiatkoding)
 - [Arya Shah](https://github.com/shahmanager)
 - [Bhumika pandey](https://github.com/Bhumikapandey67)
 - [Pragya Solanki](https://github.com/solankipragya128)
